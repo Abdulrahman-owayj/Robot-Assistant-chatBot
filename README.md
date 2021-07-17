@@ -16,14 +16,19 @@
 
 **To make similar chatbot you need to do these simple steps**
 
-First visit: https://www.ibm.com/cloud/watson-assistant
+**First visit:** https://www.ibm.com/cloud/watson-assistant
 
-then create an account and it will take you to the control page here you can create your chatbot (you can choose the language spoken and train your bot to respond to particular subjects using intent, entity and dialog ).
+**Then** create an account and it will take you to the control page here you can create your chatbot (you can choose the language spoken and train your bot to respond to particular subjects using intent, entity and dialog ).
 
-Intent: is what the user meant to say and he may use different words reffering to the same intent.
-Entity: is spicific keywords you want the chatbot to recognize like the day to book a flight or the time he may come in or what his budget.
-Dialog: is the responses your chatbot use to respond to the user after recognizing the intent and entity.
+**Intent:** is what the user meant to say and he may use different words reffering to the same intent.
+
+**Entity:** is spicific keywords you want the chatbot to recognize like the day to book a flight or the time he may come in or what his budget.
+
+**Dialog:** is the responses your chatbot use to respond to the user after recognizing the intent and entity.
 
 
+![image](https://user-images.githubusercontent.com/5675794/126050748-45e65e57-2828-47c2-a6a9-e2a226906392.png)
+
+![image](https://user-images.githubusercontent.com/5675794/126050751-c0283f9c-3943-4727-b39a-e701c614d06a.png)
 
 
