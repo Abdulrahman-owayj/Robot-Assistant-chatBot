@@ -18,11 +18,11 @@ In this project i made a a robot assistant to help the user of the (Robot contro
 
 First visit: https://www.ibm.com/cloud/watson-assistant
 
-then create an account and it will take you to the control page here you can create your chatbot (you can choose the language spoken and train your bot to respond to particelar subjects using intent, entity and dialog ).
+then create an account and it will take you to the control page here you can create your chatbot (you can choose the language spoken and train your bot to respond to particular subjects using intent, entity and dialog ).
 
 Intent: is what the user meant to say and he may use different words reffering to the same intent.
 Entity: is spicific keywords you want the chatbot to recognize like the day to book a flight or the time he may come in or what his budget.
-
+Dialog: is the responses your chatbot use to respond to the user after recognizing the intent and entity.
 
 
 
